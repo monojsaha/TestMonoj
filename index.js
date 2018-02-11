@@ -9,3 +9,4 @@ var fs = require('fs');
      headers: {'Content-Type': 'text/html'}
    });
  };
+ //changed for deployment initiator
